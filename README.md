@@ -1,6 +1,6 @@
 ## Docs for minimal mistakes theme
 
-https://mmistakes.github.io/minimal-mistakes/docs/
+https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 ## I installed it by cloning the repository since I was having problems using the gem install
 
