@@ -135,8 +135,8 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-facebook-square"
+    - label: ""
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/josephpjohnson/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
