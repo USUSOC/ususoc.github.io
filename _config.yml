@@ -132,13 +132,13 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "LinkedIn"
+    - label: ""
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/josephpjohnson/"
-    - label: "Instagram"
+    - label: ""
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ususoc/"
-    - label: "Discord"
+    - label: ""
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/YBcSA2DWEf"
     - label: "GitHub"
