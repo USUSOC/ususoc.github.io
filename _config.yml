@@ -139,7 +139,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ususoc/"
     - label: "Discord"
-      icon: ""
+      icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/YBcSA2DWEf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
