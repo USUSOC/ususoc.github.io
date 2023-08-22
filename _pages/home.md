@@ -1,7 +1,6 @@
 ---
 layout: splash
-permalink: /
-hidden: true
+permalink: /home
 header:
   overlay_image: /assets/splash.png
 excerpt: >
