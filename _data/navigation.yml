@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Upcoming Events"
+    url: /upcoming-events/
+  - title: "Career Development"
+    url: /career-dev/
+  - title: "Practice Resources"
+    url: /practice-res/
+  # - title: "Sitemap"
+  #   url: /sitemap/
