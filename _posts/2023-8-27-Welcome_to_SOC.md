@@ -3,7 +3,7 @@ layout: single
 title:  "Welcome to USU S.O.C!"
 ---
 
-# Getting Started
+## Getting Started
 
 Start by getting a look at our social media:
 (Insert Link Tree here)
