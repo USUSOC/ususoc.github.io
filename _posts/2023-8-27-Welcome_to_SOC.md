@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Welcome to USU S.O.C!"
 ---
 
-# Welcome
+# Getting Started
 
-**Hello world**, this is my first Jekyll blog post.
+Start by getting a look at our social media:
+(Insert Link Tree here)
 
-I hope you like it!
+(Maybe a list of things we do here to catch their eye) 
