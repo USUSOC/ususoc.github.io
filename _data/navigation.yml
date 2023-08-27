@@ -12,10 +12,13 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: Getting Started
+  -title: Home
     children:
       - title: "About"
         url: /about/
+        
+  - title: Getting Started
+    children:
       - title: "Quick Start Guide"
         url: /docs/quick-start-guide/
       - title: "Getting Connected"
