@@ -1,11 +1,9 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "We strive to become the best club at Utah State University and a prestigious cybersecurity club with a national presence."
-last_modified_at: 2023-8-21
+last_modified_at: 2023-8-27
 toc: true
 ---
 
 # Welcome to the Club
+<br>
 
-we meet weekly.
