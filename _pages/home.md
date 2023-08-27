@@ -1,11 +1,7 @@
 ---
-layout: splash
-permalink: /
-hidden: true
-header:
-  overlay_image: /assets/splash.png
-excerpt: >
-  Crafting Cyber Excellence in Tomorrow's Talent<br />
+layout: home
+author_profile: true
 ---
 
-{% include feature_row %}
+{% include figure image_path="/assets/splash.png" alt="USU SOC Splash image" %}
+
