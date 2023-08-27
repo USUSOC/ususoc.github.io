@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 docs:
-  -title: Home
+  - title: Home
     children:
       - title: "About"
         url: /about/
