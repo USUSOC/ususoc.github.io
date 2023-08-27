@@ -1,6 +1,6 @@
 ---
-type: single
 title: "Quick Start Guide"
+type: single
 permalink: /docs/quick-start-guide/
 last_modified_at: 2023-8-27
 toc: true
