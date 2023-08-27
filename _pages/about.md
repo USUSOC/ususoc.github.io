@@ -15,16 +15,15 @@ reflecting our desire to be an official and recognized organization while refere
 
 ## Activities
 
-Here in S.O.C., we participate in many activities each semester (yes, including the Summer semester). This upcoming academic year, we plan to participate in the National Cyber League, HTB University CTF, have various in-house competitions, 
-hear from distinguished guest speakers from all over the US, have career-building nights, and much more.
+Here in S.O.C., we participate in many activities each semester (yes, including the Summer semester). This upcoming academic year, we plan to participate in the National Cyber League, HTB University CTF, have various in-house competitions, hear from distinguished guest speakers from all over the US, have career-building nights, and much more.
 
 ## Who Can Participate?
 
-Short answer: **ANYONE!!**.
+Short answer: **ANYONE!!**<br/>
 Everyone in the club understands cybersecurity is challenging, and nobody here is an "expert." Everyone who you will meet in the club comes to learn and get better. Additionally, we would love for "non-cyber" people to come and see what cybersecurity is really all about. We believe cybersecurity is an essential and growing part of everyone's life, so foundational knowledge is critical. 
-<br>
+<br/>
 Also, for those competitions you read about above, we participate in competitions with beginner-friendly challenges, so no matter your skill level, you will succeed and grow in your knowledge.
-<br>
+<br/>
 So, once again, who can participate? **ANYONE!!**
 
 ## Club Benefits
