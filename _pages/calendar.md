@@ -1,8 +1,8 @@
 ---
-layout: calendar
+layout: splash
 permalink: /upcoming-events/
 header:
-  overlay_image: /assets/Calendar_banner.png
+  image: /assets/Calendar_banner.png
 last_modified_at: 2023-8-27
 ---
 <br>
