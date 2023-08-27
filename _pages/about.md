@@ -20,11 +20,14 @@ Here in S.O.C., we participate in many activities each semester (yes, including 
 ## Who Can Participate?
 
 Short answer: **ANYONE!!**
-&nbsp;
+
+
 Everyone in the club understands cybersecurity is challenging, and nobody here is an "expert." Everyone who you will meet in the club comes to learn and get better. Additionally, we would love for "non-cyber" people to come and see what cybersecurity is really all about. We believe cybersecurity is an essential and growing part of everyone's life, so foundational knowledge is critical. 
-&nbsp;
+
+
 Also, for those competitions you read about above, we participate in competitions with beginner-friendly challenges, so no matter your skill level, you will succeed and grow in your knowledge.
-&nbsp;
+
+
 So, once again, who can participate? **ANYONE!!**
 
 ## Club Benefits
