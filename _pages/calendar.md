@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: calendar
 permalink: /upcoming-events/
 title: "upcoming-events"
 excerpt: "Join us for our upcoming events!"
