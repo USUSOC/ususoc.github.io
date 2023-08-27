@@ -10,3 +10,20 @@ main:
   #   url: /practice-res/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Getting Connected"
+        url: /docs/getting-connected/
+      - title: ""
+        url: /docs/
+
+  - title: "Training Resources"
+    children:
+      - title: "Free Resources"
+        url: /docs/free-resources/
+      - title: "Tool List"
+        url: /docs/tools/
