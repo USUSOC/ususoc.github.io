@@ -4,6 +4,7 @@ permalink: /upcoming-events/
 title: "Club Calendar"
 last_modified_at: 2023-8-27
 ---
+{% include figure image_path="/assets/calendar_banner.png" alt="USU SOC Calendar Banner" %}
 # Join us for our upcoming event, meetings, and competitions!
 <br>
 <br>
