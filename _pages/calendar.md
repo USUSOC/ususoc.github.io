@@ -2,11 +2,9 @@
 layout: calendar
 permalink: /upcoming-events/
 title: "Club Calendar"
-excerpt: "Join us for our upcoming events and competitions!"
 last_modified_at: 2023-8-27
-toc: true
 ---
-# Check out upcoming competitions, registration deadlines, and club meetings!
+# Join us for our upcoming event, meetings, and competitions!
 <br>
 <br>
 
