@@ -1,7 +1,7 @@
 ---
 type: docs
 title: "Quick Start Guide"
-permalink: /docs/quick-start-guide
+permalink: /docs/quick-start-guide/
 last_modified_at: 2023-8-27
 toc: true
 toc_label: "Glossary"
