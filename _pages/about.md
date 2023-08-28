@@ -5,7 +5,8 @@ permalink: /about/
 last_modified_at: 2023-8-27
 toc: true
 toc_label: "Glossary"
-toc_icon: "columns"
+toc_icon: "bookmark"
+toc_sticky: true
 sidebar:
   nav: "docs"
 ---
