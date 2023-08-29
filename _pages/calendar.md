@@ -38,7 +38,7 @@ last_modified_at: 2023-8-27
   <iframe src="https://outlook.office365.com/owa/calendar/43e88d0f5a86425ab53d9f7eba9801cf@usu.edu/1d9b6eedc1f04440bacec06e74222cb43204620194208656066/calendar.html"></iframe>
 </div>
 <div class="responsive-iframe-container small-container">
-  <a href="https://outlook.office365.com/owa/calendar/43e88d0f5a86425ab53d9f7eba9801cf@usu.edu/1d9b6eedc1f04440bacec06e74222cb43204620194208656066/calendar.html">Link to our calender<\a>
+  <a href="https://outlook.office365.com/owa/calendar/43e88d0f5a86425ab53d9f7eba9801cf@usu.edu/1d9b6eedc1f04440bacec06e74222cb43204620194208656066/calendar.html">Link to our calender</a>
 </div>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
