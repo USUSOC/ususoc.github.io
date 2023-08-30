@@ -28,5 +28,5 @@ docs:
     children:
       - title: "Free Resources"
         url: /docs/free-resources/
-      - title: "Tool List"
-        url: /docs/tools/
+      # - title: "Tool List"
+      #   url: /docs/tools/
