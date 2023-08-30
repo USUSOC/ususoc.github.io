@@ -25,7 +25,7 @@ Discord is our main format for communication. We send out announcements, meeting
 ## Get Kali Linux
 
 ### Background
-Kali Linux is a specialized, open-source operating system designed for penetration testing and ethical hacking. It provides a comprehensive suite of tools and resources for cybersecurity professionals and enthusiasts to assess and secure computer systems, networks, and applications. We use this regularly, so we would ask that you try to get it set up on your computer if possible. If you are unable, no worries! Just come talk to us, and we will help get you enabled to participate.
+Kali Linux is a specialized, open-source operating system designed for penetration testing and ethical hacking. It provides a comprehensive suite of tools and resources for cybersecurity professionals and enthusiasts to assess and secure computer systems, networks, and applications. We use this regularly, so we ask that you try to get it set up on your computer. If you are unable, no worries! Just talk to us, and we will help get something figured out so you can participate. We have plenty of options for getting you access to Kali; this way is just the simplest.
 
 ### Virtual Box
 The first step is installing a hypervisor. We recommend Virtualbox because it is what we are familiar with and is free. Virtualbox will be the software that allows you to host your virtual Kali Linux machine on your computer. See the link below for instructions on how to install it. Once you navigate to the link, select the operating system your computer is running to find the appropriate installer.
@@ -41,7 +41,10 @@ Once you have VirtualBox installed, you will set up your Kali Linux virtual mach
 
 ## Officially Become a Member
 
-We warmly invite you to become an official member of the club by contributing the membership dues. By doing so, you'll unlock all the wonderful benefits of being a valued S.O.C. member. Your support directly helps us cover the costs of exciting competitions and essential club resources provided by the university. We truly believe you will get immense value from this club! 
+We warmly invite you to become an official member of the club by contributing the membership dues. By doing so, you'll unlock all the wonderful benefits of being a valued S.O.C. member. Your support directly helps us cover the costs of exciting competitions and essential club resources provided by the university. We are a club supported by the AIS organization on campus, so you will become a member of S.O.C. and AIS as a whole. This will unlock our benefits and get you access to the great AIS events and activities. We truly believe you will get immense value from this club!
+
+
+[Membership Portal](https://my.usu.edu/groups/student-organization-for-cybersecurity/page)
 
 ## Meet the Club Leadership Team
 
