@@ -53,7 +53,7 @@ We'd like to invite you to become an official member of the club by contributing
 
 This is the club leadership team from left to right: Joseph Johnson, Chandler McClellan, Chloe Clemens, Daniel Barfuss, and Scott Roberts.
 
-* Chandler is the president of the club and oversees the club's various activities and functions.
+* Chandler is the president of the club and oversees the club's various activities and functions. Not only is he the Boss, but he is a boss. 
 * Chloe is the outreach and social media specialist. Handing everything from Instagram to advertisements around campus.
 * Daniel handles our club's various projects. This website, along with many other projects, has been headed up by Daniel.
 * Joseph coordinates the competitions and skill-building portion of the club.
