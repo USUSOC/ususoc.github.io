@@ -24,7 +24,7 @@ Discord is our main format for communication. We send out announcements, meeting
 
 ### Meet the Club Leadership Team
 
-![Local Image](assets/leadership_team.jpg)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/leadership_team.jpg){: .align-center}
 
 
 This is the club leadership team from right to left: Joseph Johnson, Chandler McClellan, Chloe Clemens, Daniel Barfuss, and Scott Roberts.
