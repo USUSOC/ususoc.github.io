@@ -28,7 +28,7 @@ Discord is our main format for communication. We send out announcements, meeting
 Kali Linux is a specialized, open-source operating system designed for penetration testing and ethical hacking. It provides a comprehensive suite of tools and resources for cybersecurity professionals and enthusiasts to assess and secure computer systems, networks, and applications. We use this regularly, so we ask that you try to get it set up on your computer. If you are unable, no worries! Just talk to us, and we will help get something figured out so you can participate. We have plenty of options for getting you access to Kali; this way is just the simplest.
 
 ### Virtual Box
-The first step is installing a hypervisor. We recommend Virtualbox because it is what we are familiar with and is free. Virtualbox will be the software that allows you to host your virtual Kali Linux machine on your computer. See the link below for instructions on how to install it. Once you navigate to the link, select the operating system your computer is running to find the appropriate installer.
+The first step is installing a hypervisor. We recommend Virtualbox because it is what we are familiar with and is free. Virtualbox will be the software that allows you to host your virtual Kali Linux machine on your computer. See the link below for instructions on how to install it. Basically, once you navigate to the link, select the operating system your computer has to find the appropriate installer.
 
 
 [Virtual Box Downloads](https://www.virtualbox.org/wiki/Downloads)
