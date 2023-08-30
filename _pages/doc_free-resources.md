@@ -56,22 +56,73 @@ Cyberchef is a great tool for many applications, one being messing around with c
 
 [CyberChef](https://gchq.github.io/CyberChef/)
 
-## Open Source Intelligence
+## Open Source Intelligence (OSINT)
 
+### The OSINT Framework
+This is an amazing repository for all things OSINT. You can easily learn and visually see how many aspects are involved in Open Source Intelligence gathering and how powerful of a skill it can be in today's connected world. Check this site out to learn more about all the tools and resources you can use in OSINT.
+
+[The OSINT Framework](https://osintframework.com/)
+
+### Bellingcat
+An awesome and free resource for learning about OSINT and seeing it in action is Bellingcat. Bellingcat is an investigative group that heavily uses OSINT to conduct very rigorous and world-class investigations. You should definitely check out their work.
+
+
+[Bellingcat](https://www.bellingcat.com/)
 
 # Offensive Cyber Resources
 Do you like to break stuff? Find out how things work? Are you oozing with curiosity? Use these resources responsibly.
 
 ## Web Exploitation
 
+### OWASP
+OWASP stands for The Open Worldwide Application Security Project. They are a non-profit foundation that dedicates itself to securing software. You can find great discussions, articles, and learning resources while digging around their website. You can check out OWASP to learn more about web exploitation and how software vulnerabilities can be mitigated.
+
+
+[OWASP Website](https://owasp.org/)
+
+### PortSwigger's Web Security Academy
+A tool you should become familiar with if you want to get into web exploitation is called Burpsuite. The creators have a free academy where you can read about and learn how to use it. It is certainly a tool that is handy for competitions and could be a regular in your cyber arsenal. Check it out!
+
+
+[Burp Suite - Web Security Academy](https://portswigger.net/web-security)
+
 ## Pen-testing
 
-## Vulnerability Assessment and Scanning
+### Metasploit Unleashed
+Metasploit Unleashed is a free comprehensive course that covers many topics in the realm of pen-testing. If you want to learn how to become an ethical hacker and dive deep into this discipline, this is the most comprehensive and in-depth Metasploit guide. It'll walk you through setting up your own digital lab environment and all the required tools and dive into many different topics.
 
 
-# Defensive Cyber Resources
-Are you passionate about protecting cyberspace? How about protecting people? Do you have a knack for anticipating and thwarting threats? If you're driven by safeguarding systems and data, these resources may be your fancy.
+[Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/)
 
-## Governance, Risk, and Compliance
+### PenTester Lab
+PentesterLab offers a platform that provides hands-on, practical exercises focused on web security and penetration testing. While they offer some paid content, they also have free exercises covering topics like SQL injection, cross-site scripting (XSS), and more. These exercises give you a chance to practice real-world scenarios in a controlled environment
 
-## Security Operations
+
+[PenTester Lab](https://pentesterlab.com/exercises)
+
+[comment]: # Defensive Cyber Resources
+[comment]: Are you passionate about protecting cyberspace? How about protecting people? Do you have a knack for anticipating and thwarting threats? These resources may be your fancy if you're driven by safeguarding systems and data.
+
+[comment]: ## Security Operations
+
+[comment]: ###
+
+
+[comment]: []()
+
+[comment]: ###
+
+
+[comment]: []()
+
+[comment]: ## Incident Response and Digital Forensics
+
+[comment]: ###
+
+
+[comment]: []()
+
+[comment]: ###
+
+
+[comment]: []()
