@@ -16,7 +16,7 @@ reflecting our desire to be an official and recognized organization while refere
 
 ## Activities
 
-Here in S.O.C., we participate in many activities each semester (yes, including the Summer semester). This upcoming academic year, we plan to participate in the National Cyber League, HTB University CTF, have various in-house competitions, hear from distinguished guest speakers from all over the US, have career-building nights, and much more.
+Here in The S.O.C., we participate in many activities each semester (yes, including the Summer semester). This upcoming academic year, we plan to participate in the National Cyber League, HTB University CTF, have various in-house competitions, hear from distinguished guest speakers from all over the US, have career-building nights, and much more.
 
 ## Who Can Participate?
 
@@ -43,4 +43,7 @@ Oh yes, we do have some unofficial club benefits.
 * A Ton of fun
 
 ## Final Word
-If all this sounds great, you should heavily consider joining the club. If you'd like to get involved, you can see the bottom of this webpage for our social media and check out the Upcoming Events tab at the top to access our calendar.
+If all this sounds great, you should heavily consider joining the club. If you'd like to get involved, see the link below to find the ***myusu*** portal, where you can see information about paying dues to become an official member. Additionally, you can see the bottom of this webpage for our social media and check out the Upcoming Events tab at the top to access our calendar. 
+
+
+[Membership Portal](https://my.usu.edu/groups/student-organization-for-cybersecurity/page)
