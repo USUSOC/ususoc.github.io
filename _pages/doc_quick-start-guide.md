@@ -48,7 +48,7 @@ We'd like to invite you to become an official member of the club by contributing
 
 ## Meet the Club Leadership Team
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/leadership_team_updated.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/LT_Photo.jpg){: .align-center}
 
 
 This is the club leadership team from left to right: Joseph Johnson, Chandler McClellan, Chloe Clemens, Daniel Barfuss, and Scott Roberts.
