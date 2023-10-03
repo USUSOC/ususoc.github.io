@@ -23,12 +23,6 @@ While Cisco stuff is usually very expensive, their networking essentials course 
 
 [Cisco Networking Academy-Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials)
 
-### Google's Networking Basics Course
-This is a 25-hour course from Google, all about networking. This course is hosted on Coursera, with many other great free courses available. So don't be shy about exploring a bit. Google has some quality content out there; give this a try if you want to learn about networking.
-
-
-[Google Networking Course](https://www.coursera.org/learn/computer-networking?irclickid=w8zTp%3AwlgxyPUvr2np3MRyDVUkFyUrUlR0VswE0&irgwc=1)
-
 ### GNS3 Network Testing Software
 Ready to get your feet wet? GNS3 is free software that allows you to put your networking knowledge to the test. You can design, build, and test virtual networks in a sandbox environment. If you want to get hands-on and apply your networking knowledge, try out GNS3.
 
