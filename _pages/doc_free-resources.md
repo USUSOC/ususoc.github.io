@@ -89,7 +89,7 @@ Metasploit Unleashed is a free comprehensive course that covers many topics in t
 [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/)
 
 ### PenTester Lab
-PentesterLab offers a platform that provides hands-on, practical exercises focused on web security and penetration testing. While they offer some paid content, they also have free exercises covering topics like SQL injection, cross-site scripting (XSS), and more. These exercises give you a chance to practice real-world scenarios in a controlled environment
+PentesterLab offers a platform that provides hands-on, practical exercises focused on web security and penetration testing. While they offer some paid content, they also have free exercises covering topics like SQL injection, cross-site scripting (XSS), and more. These exercises give you a chance to practice real-world scenarios in a controlled environment.
 
 
 [PenTester Lab](https://pentesterlab.com/exercises)
