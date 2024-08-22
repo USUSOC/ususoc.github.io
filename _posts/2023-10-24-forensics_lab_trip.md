@@ -3,7 +3,7 @@ layout: single
 title:  "Digital Forensics Lab Field Trip"
 ---
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/image44.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/image44.png){: .align-center}
 
 ## FBI Crime Lab, "Don't Be Evil"
 
