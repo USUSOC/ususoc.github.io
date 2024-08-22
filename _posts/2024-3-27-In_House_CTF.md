@@ -3,7 +3,7 @@ layout: single
 title:  "SOC In-House CTF!!"
 ---
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/image27.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/image27.png){: .align-center}
 
 ## Sweaty Keyboards, and Lots of Beep Boops
 
